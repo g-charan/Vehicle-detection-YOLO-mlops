@@ -1,0 +1,16 @@
+names:
+  - car
+  - cidomo
+  - motorcycle
+  - person
+  - truck
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: traffic-project-1e2yd
+  url: https://universe.roboflow.com/trafficproject-sehmq/traffic-project-1e2yd/dataset/2
+  version: 2
+  workspace: trafficproject-sehmq
+test: D:/Intern/MLOP/Notebooks/Traffic Management/traffic-project-2/test/images
+train: D:/Intern/MLOP/Notebooks/Traffic Management/traffic-project-2/train/images
+val: D:/Intern/MLOP/Notebooks/Traffic Management/traffic-project-2/valid/images
